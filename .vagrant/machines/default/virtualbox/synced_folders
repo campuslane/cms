@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/cms":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/cms","hostpath":"/Users/Kate/Sites/cms","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Kate/Sites/cms","disabled":false}}}
